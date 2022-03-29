@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:anddriod="http://schemas.android.com/apk/res-auto"
+    xmlns:andriod="http://schemas.android.com/tools">
+
+    <item
+        anddriod:id="@+id/mnview"
+        andriod:title="@string/lihatdata"
+        android:title="@string/todo" />
+
+    <item
+        andriod:id="@+id/mnedit"
+        andriod:title="@string/editdata"
+        android:title="@string/todo" />
+
+</menu>
